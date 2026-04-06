@@ -10,6 +10,12 @@
 
 ---
 
+## Installation
+
+1. [Download page_password.zip](page_password.zip)
+2. Unzip and place the `page_password` folder in your Concrete CMS `packages/` directory
+3. Go to **Dashboard → Extend Concrete** and click **Install**
+
 ## Features
 
 - **Page attribute protection** — Set a password on any page via the Compose or Properties panel
