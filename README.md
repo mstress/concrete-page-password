@@ -6,6 +6,8 @@
 
 > Password-protect any page in Concrete CMS. One attribute, session-persistent unlock, clean architecture.
 
+![Password entry screen](assets/password-screen.png)
+
 ---
 
 ## Features
