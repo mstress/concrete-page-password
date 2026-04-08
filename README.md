@@ -16,6 +16,7 @@
 - **Session persistence** — Visitors authenticate once per session, not on every page load
 - **Parent inheritance** — Protect a page and all its descendants inherit that protection
 - **Branch unlocking** — Unlocking a parent unlocks the entire subtree for that session
+- **Permission-aware** — Logged-in users with edit access bypass the password gate
 - **Dashboard panel** — View all protected pages, remove protection with one click
 - **Bcrypt support** — Store passwords as plain text or hashed (your choice)
 - **Middleware architecture** — Intercepts requests cleanly before page render
